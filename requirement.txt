@@ -1,3 +1,4 @@
 streamlit
 pdfplumber
 requests
+streamlit run app.py
